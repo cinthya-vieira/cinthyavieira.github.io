@@ -1,0 +1,18 @@
+h1{
+	font-family: Comic Sans MS;
+}
+
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	font-family: Comic Sans MS;
+	//border-top-style: hidden;
+}
+				
+th, td {
+	padding: 15px;
+}
+				
+td {
+	text-align: center;
+}
